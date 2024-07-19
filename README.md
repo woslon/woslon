@@ -1,2 +1,2 @@
 ola me chamo woslon
-https://github-readme-stats.vercel.app/api? username woslon=anuraghazra
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
