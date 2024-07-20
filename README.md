@@ -1,8 +1,17 @@
-<h3 align="center">Olá! me chamo woslon , sou (Desenvolvedor front-end )</h3>
+<h3 align="center">Olá! me chamo woslon , sou sou (Desenvolvedor front-end )</h3>
 
 ###
 
-<div align="left">
+<h3 align="center">🛠️ Ferramentas que eu utilizo :</h3>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -15,5 +24,3 @@
 </div>
 
 ###
-
-
