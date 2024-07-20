@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Woslon</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h3 align="center">Um desenvolvedor frontend entusiasta da tecnologia</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
