@@ -2,7 +2,7 @@
 <h3 align="center">(Sou Desenvolvedor Front-end)</h3>
 ###
 
-<h3 align="center">🛠️ Ferramentas utilizadas para Desenvolvimento:</h3>
+<h3 align="center">🛠️ Ferramentas Utilizadas Para Desenvolvimento:</h3>
 
 ###
 
