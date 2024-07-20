@@ -1,4 +1,4 @@
-<h3 align="center">Olá! me chamo woslon , sou sou (Desenvolvedor front-end )</h3>
+<h3 align="center">Olá! me chamo woslon , sou (Desenvolvedor front-end )</h3>
 
 ###
 
