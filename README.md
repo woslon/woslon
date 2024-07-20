@@ -1,8 +1,8 @@
-<h1 align="center">Olá! me chamo woslon , sou (Desenvolvedor front-end )</h1>
+<h2 align="center">Olá! me chamo woslon , sou (Desenvolvedor front-end )</h2>
 
 ###
 
-<h3 align="center">🛠️ Ferramentas que eu utilizo :</h3>
+<h3 align="center">🛠️ Ferramentas utilizadas para Desenvolvimento:</h3>
 
 ###
 
