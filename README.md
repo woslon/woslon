@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff" alt="Expo" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
@@ -46,11 +47,11 @@
 ---
 
 <section>
-  <h3>🚀 Atualmente estudando</h3>
+  <h3>📈 Foco atual</h3>
   <ul>
-    <li>📌 Arquitetura de software</li>
-    <li>📌 Segurança (JWT, autenticação)</li>
-    <li>📌 Performance em aplicações mobile</li>
+    <li>💡 Aprimorar arquitetura de software em projetos web e mobile</li>
+    <li>💡 Aumentar segurança e eficiência em APIs e autenticação</li>
+    <li>💡 Otimizar performance de aplicações React Native</li>
   </ul>
 </section>
 
