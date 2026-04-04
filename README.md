@@ -1,5 +1,5 @@
-<h2 align="center">Olá 👋, me chamo Woslon</h2>
-<h3 align="center">🚀 Desenvolvedor Full Stack JavaScript</h3>
+<h1 align="center">Olá 👋, me chamo Woslon</h1>
+<h2 align="center">🚀 Desenvolvedor Full Stack JavaScript</h2>
 
 ---
 
@@ -8,7 +8,7 @@
   <p>💻 Desenvolvedor focado em criar aplicações web e mobile completas</p>
   <p>📱 Experiência com React Native (Expo) e integração com APIs</p>
   <p>🌐 Desenvolvimento de APIs REST com Node.js e Express</p>
-  <p>🗄️ Trabalho com bancos de dados relacionais como PostgreSQL</p>
+  <p>🗄️ Trabalho com bancos de dados relacionais como PostgreSQL e MySQL</p>
   <p>⚡ Sempre buscando evoluir em performance, arquitetura e boas práticas</p>
 </section>
 
@@ -17,21 +17,15 @@
 <section>
   <h3>🛠️ Tecnologias</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="TailwindCSS" />
   </p>
 </section>
 
@@ -52,7 +46,7 @@
   <ul>
     <li>✔️ Aplicações mobile com React Native + Expo</li>
     <li>✔️ APIs REST (Node.js + Express)</li>
-    <li>✔️ Integração com banco de dados (PostgreSQL)</li>
+    <li>✔️ Integração com bancos de dados (PostgreSQL / MySQL)</li>
     <li>✔️ Autenticação (Firebase / JWT)</li>
     <li>✔️ Upload de arquivos e consumo de APIs</li>
     <li>✔️ Geolocalização e recursos nativos</li>
