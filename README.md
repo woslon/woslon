@@ -8,7 +8,7 @@
   <p>💻 Desenvolvedor focado em criar aplicações web e mobile completas</p>
   <p>📱 Experiência com React Native (Expo) e integração com APIs</p>
   <p>🌐 Desenvolvimento de APIs REST com Node.js e Express</p>
-  <p>🗄️ Trabalho com bancos de dados relacionais como PostgreSQL e MySQL</p>
+  <p>🗄️ Trabalho com bancos de dados relacionais como SQL e PostgreSQL</p>
   <p>⚡ Sempre buscando evoluir em performance, arquitetura e boas práticas</p>
 </section>
 
@@ -23,19 +23,9 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=ffffff" alt="SQL" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="TailwindCSS" />
-  </p>
-</section>
-
----
-
-<section>
-  <h3>📊 Estatísticas</h3>
-  <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </section>
 
@@ -46,7 +36,7 @@
   <ul>
     <li>✔️ Aplicações mobile com React Native + Expo</li>
     <li>✔️ APIs REST (Node.js + Express)</li>
-    <li>✔️ Integração com bancos de dados (PostgreSQL / MySQL)</li>
+    <li>✔️ Integração com bancos de dados (PostgreSQL / SQL)</li>
     <li>✔️ Autenticação (Firebase / JWT)</li>
     <li>✔️ Upload de arquivos e consumo de APIs</li>
     <li>✔️ Geolocalização e recursos nativos</li>
