@@ -4,7 +4,7 @@
 ---
 
 <section>
-  <h3>Sobre mim</h3>
+  <h3>Sobre mim:</h3>
   <p>Desenvolvedor focado em criar aplicações web e mobile completas</p>
   <p>Experiência com React Native (Expo) e integração com APIs</p>
   <p>Desenvolvimento de APIs REST com Node.js e Express</p>
