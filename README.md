@@ -15,7 +15,7 @@
 ---
 
 <section>
-  <h3>🛠️ Tecnologias</h3>
+  <h3>🛠️ Tecnologias:</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
@@ -33,21 +33,21 @@
 ---
 
 <section>
-  <h3>O que eu desenvolvo</h3>
+  <h3>O que eu desenvolvo:</h3>
   <ul>
     <li>Aplicações mobile com React Native + Expo</li>
     <li>APIs REST (Node.js + Express)</li>
     <li>Integração com bancos de dados (PostgreSQL / SQL)</li>
     <li>Autenticação (Firebase / JWT)</li>
     <li>Upload de arquivos e consumo de APIs</li>
-    <li>✔️ Geolocalização e recursos nativos</li>
+    <li>Geolocalização e recursos nativos</li>
   </ul>
 </section>
 
 ---
 
 <section>
-  <h3>📈 Foco Atual</h3>
+  <h3>Foco Atual:</h3>
   <ul>
     <li> Aprimorar arquitetura de software (MVC, camadas e boas práticas)</li>
     <li> Aumentar segurança e eficiência em APIs e autenticação</li>
